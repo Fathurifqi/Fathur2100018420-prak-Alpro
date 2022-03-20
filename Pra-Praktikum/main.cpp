@@ -18,7 +18,7 @@ int main(){
 	cout<<"5. Modulus"<<endl;
 	cout<<endl;
 	
-	cout<<"Masukan Pilihan : ";
+	cout<<"Masukan Pilihan  : ";
 	cin>>pil;
 	cout<<"Masukan Bilangan pertama : ";
 	cin>>bil1;
